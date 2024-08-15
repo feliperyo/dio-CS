@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operador Condicional na Prática", "Operador Condicional na Prática\Operador Condicional na Prática.csproj", "{1DBBD2C6-039E-4757-942D-9BCE08E05CFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculadora", "Calculadora\Calculadora.csproj", "{C36447D7-FB26-44B9-BF59-1214799BEA78}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sintaxe .NET C#", "Sintaxe .NET C#\Sintaxe .NET C#.csproj", "{AAA71ED6-A87E-4A58-9907-7E268EC2922A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operador Condicional na Prática", "Operador Condicional na Prática\Operador Condicional na Prática.csproj", "{848A3A71-9650-4BCD-81E7-42B2454E375D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tipo Date Time", "Tipo Date Time\Tipo Date Time.csproj", "{7D5E0BAF-4A52-427A-BD4F-F9903E536D6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sintaxe .NET C#", "Sintaxe .NET C#\Sintaxe .NET C#.csproj", "{55C33F21-09CB-49CA-958E-A545B1EAD4C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tipo Date Time", "Tipo Date Time\Tipo Date Time.csproj", "{41F967F5-0C04-4AEA-9441-70A4F4C5DAD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1DBBD2C6-039E-4757-942D-9BCE08E05CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1DBBD2C6-039E-4757-942D-9BCE08E05CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1DBBD2C6-039E-4757-942D-9BCE08E05CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1DBBD2C6-039E-4757-942D-9BCE08E05CFC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AAA71ED6-A87E-4A58-9907-7E268EC2922A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AAA71ED6-A87E-4A58-9907-7E268EC2922A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AAA71ED6-A87E-4A58-9907-7E268EC2922A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AAA71ED6-A87E-4A58-9907-7E268EC2922A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7D5E0BAF-4A52-427A-BD4F-F9903E536D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7D5E0BAF-4A52-427A-BD4F-F9903E536D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7D5E0BAF-4A52-427A-BD4F-F9903E536D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7D5E0BAF-4A52-427A-BD4F-F9903E536D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36447D7-FB26-44B9-BF59-1214799BEA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36447D7-FB26-44B9-BF59-1214799BEA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36447D7-FB26-44B9-BF59-1214799BEA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36447D7-FB26-44B9-BF59-1214799BEA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{848A3A71-9650-4BCD-81E7-42B2454E375D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{848A3A71-9650-4BCD-81E7-42B2454E375D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{848A3A71-9650-4BCD-81E7-42B2454E375D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{848A3A71-9650-4BCD-81E7-42B2454E375D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C33F21-09CB-49CA-958E-A545B1EAD4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C33F21-09CB-49CA-958E-A545B1EAD4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C33F21-09CB-49CA-958E-A545B1EAD4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C33F21-09CB-49CA-958E-A545B1EAD4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41F967F5-0C04-4AEA-9441-70A4F4C5DAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F967F5-0C04-4AEA-9441-70A4F4C5DAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F967F5-0C04-4AEA-9441-70A4F4C5DAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F967F5-0C04-4AEA-9441-70A4F4C5DAD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
