@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tipo Date Time/1.0.0": {
+        "runtime": {
+          "Tipo Date Time.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tipo Date Time/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

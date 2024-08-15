@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\obj\Debug\net8.0\Tipo Date Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\obj\Debug\net8.0\Tipo Date Time.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\obj\Debug\net8.0\Tipo Date Time.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\obj\Debug\net8.0\Tipo Date Time.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\obj\Debug\net8.0\Tipo Date Time.sourcelink.json
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\bin\Debug\net8.0\Tipo Date Time.exe
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\bin\Debug\net8.0\Tipo Date Time.deps.json
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\bin\Debug\net8.0\Tipo Date Time.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\bin\Debug\net8.0\Tipo Date Time.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\bin\Debug\net8.0\Tipo Date Time.pdb
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\obj\Debug\net8.0\Tipo Date Time.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\obj\Debug\net8.0\refint\Tipo Date Time.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\obj\Debug\net8.0\Tipo Date Time.pdb
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\obj\Debug\net8.0\Tipo Date Time.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Tipo Date Time\obj\Debug\net8.0\ref\Tipo Date Time.dll

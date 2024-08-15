@@ -1,0 +1,14 @@
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Sintaxe .NET C#\bin\Debug\net8.0\Sintaxe .NET C#.exe
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Sintaxe .NET C#\bin\Debug\net8.0\Sintaxe .NET C#.deps.json
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Sintaxe .NET C#\bin\Debug\net8.0\Sintaxe .NET C#.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Sintaxe .NET C#\bin\Debug\net8.0\Sintaxe .NET C#.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Sintaxe .NET C#\bin\Debug\net8.0\Sintaxe .NET C#.pdb
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Sintaxe .NET C#\obj\Debug\net8.0\Sintaxe .NET C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Sintaxe .NET C#\obj\Debug\net8.0\Sintaxe .NET C#.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Sintaxe .NET C#\obj\Debug\net8.0\Sintaxe .NET C#.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Sintaxe .NET C#\obj\Debug\net8.0\Sintaxe .NET C#.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Sintaxe .NET C#\obj\Debug\net8.0\Sintaxe .NET C#.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Sintaxe .NET C#\obj\Debug\net8.0\refint\Sintaxe .NET C#.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Sintaxe .NET C#\obj\Debug\net8.0\Sintaxe .NET C#.pdb
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Sintaxe .NET C#\obj\Debug\net8.0\Sintaxe .NET C#.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Sintaxe .NET C#\obj\Debug\net8.0\ref\Sintaxe .NET C#.dll
