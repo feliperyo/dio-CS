@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operador Condicional na Prática", "Operador Condicional na Prática\Operador Condicional na Prática.csproj", "{F9ABEFE2-3CF3-4386-974E-126DABCC2618}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operador Condicional na Prática", "Operador Condicional na Prática\Operador Condicional na Prática.csproj", "{1DBBD2C6-039E-4757-942D-9BCE08E05CFC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sintaxe .NET C#", "Sintaxe .NET C#\Sintaxe .NET C#.csproj", "{37B83AAA-6C88-409D-B182-B2FC72E8248C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sintaxe .NET C#", "Sintaxe .NET C#\Sintaxe .NET C#.csproj", "{AAA71ED6-A87E-4A58-9907-7E268EC2922A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tipo Date Time", "Tipo Date Time\Tipo Date Time.csproj", "{71DF3BA9-AC8E-41A5-8154-8186EECDD2D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tipo Date Time", "Tipo Date Time\Tipo Date Time.csproj", "{7D5E0BAF-4A52-427A-BD4F-F9903E536D6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,18 +15,18 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F9ABEFE2-3CF3-4386-974E-126DABCC2618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F9ABEFE2-3CF3-4386-974E-126DABCC2618}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F9ABEFE2-3CF3-4386-974E-126DABCC2618}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F9ABEFE2-3CF3-4386-974E-126DABCC2618}.Release|Any CPU.Build.0 = Release|Any CPU
-		{37B83AAA-6C88-409D-B182-B2FC72E8248C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37B83AAA-6C88-409D-B182-B2FC72E8248C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37B83AAA-6C88-409D-B182-B2FC72E8248C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37B83AAA-6C88-409D-B182-B2FC72E8248C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{71DF3BA9-AC8E-41A5-8154-8186EECDD2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{71DF3BA9-AC8E-41A5-8154-8186EECDD2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{71DF3BA9-AC8E-41A5-8154-8186EECDD2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{71DF3BA9-AC8E-41A5-8154-8186EECDD2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DBBD2C6-039E-4757-942D-9BCE08E05CFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBBD2C6-039E-4757-942D-9BCE08E05CFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBBD2C6-039E-4757-942D-9BCE08E05CFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBBD2C6-039E-4757-942D-9BCE08E05CFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA71ED6-A87E-4A58-9907-7E268EC2922A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA71ED6-A87E-4A58-9907-7E268EC2922A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA71ED6-A87E-4A58-9907-7E268EC2922A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA71ED6-A87E-4A58-9907-7E268EC2922A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D5E0BAF-4A52-427A-BD4F-F9903E536D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5E0BAF-4A52-427A-BD4F-F9903E536D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5E0BAF-4A52-427A-BD4F-F9903E536D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5E0BAF-4A52-427A-BD4F-F9903E536D6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

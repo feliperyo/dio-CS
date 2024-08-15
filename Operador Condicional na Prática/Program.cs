@@ -1,4 +1,6 @@
 ﻿
+// IF ELSE
+
 int quantidadeEmEstoque = 10;
 int quantidadeCompra = 0;
 bool possivelVenda = quantidadeCompra > 0 && quantidadeEmEstoque >= quantidadeCompra;
@@ -18,4 +20,24 @@ else if (possivelVenda)
 else
 {
     Console.WriteLine("Desculpe. Não temos a quantidade desejada em estoque.");
+}
+
+// SWITCH CASE
+
+Console.WriteLine("Digite uma letra");
+string letra = Console.ReadLine();
+
+switch (letra)
+{
+    case "a":
+    case "e":
+    case "i":
+    case "o":
+    case "u":
+        Console.WriteLine("Vogal");
+        break;
+
+    default:
+        Console.WriteLine("Não é uma vogal");
+        break;
 }
