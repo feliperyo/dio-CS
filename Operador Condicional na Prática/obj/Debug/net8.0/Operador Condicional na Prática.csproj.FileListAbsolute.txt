@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\bin\Debug\net8.0\Operador Condicional na Prática.exe
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\bin\Debug\net8.0\Operador Condicional na Prática.deps.json
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\bin\Debug\net8.0\Operador Condicional na Prática.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\bin\Debug\net8.0\Operador Condicional na Prática.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\bin\Debug\net8.0\Operador Condicional na Prática.pdb
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\obj\Debug\net8.0\Operador Condicional na Prática.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\obj\Debug\net8.0\Operador Condicional na Prática.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\obj\Debug\net8.0\Operador Condicional na Prática.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\obj\Debug\net8.0\Operador Condicional na Prática.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\obj\Debug\net8.0\Operador Condicional na Prática.sourcelink.json
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\obj\Debug\net8.0\Operador Condicional na Prática.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\obj\Debug\net8.0\refint\Operador Condicional na Prática.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\obj\Debug\net8.0\Operador Condicional na Prática.pdb
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\obj\Debug\net8.0\Operador Condicional na Prática.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Operador Condicional na Prática\obj\Debug\net8.0\ref\Operador Condicional na Prática.dll
