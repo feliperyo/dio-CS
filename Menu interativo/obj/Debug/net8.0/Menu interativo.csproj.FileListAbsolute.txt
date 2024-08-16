@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\bin\Debug\net8.0\Menu interativo.exe
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\bin\Debug\net8.0\Menu interativo.deps.json
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\bin\Debug\net8.0\Menu interativo.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\bin\Debug\net8.0\Menu interativo.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\bin\Debug\net8.0\Menu interativo.pdb
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\obj\Debug\net8.0\Menu interativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\obj\Debug\net8.0\Menu interativo.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\obj\Debug\net8.0\Menu interativo.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\obj\Debug\net8.0\Menu interativo.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\obj\Debug\net8.0\Menu interativo.sourcelink.json
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\obj\Debug\net8.0\Menu interativo.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\obj\Debug\net8.0\refint\Menu interativo.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\obj\Debug\net8.0\Menu interativo.pdb
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\obj\Debug\net8.0\Menu interativo.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Menu interativo\obj\Debug\net8.0\ref\Menu interativo.dll
