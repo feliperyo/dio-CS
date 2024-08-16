@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Estruturas de repetição")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e42cbe041c6dc1f389e8c515057624472321bee2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20d62c227725880da1d3ed86c2ecd3d4f5195d96")]
 [assembly: System.Reflection.AssemblyProductAttribute("Estruturas de repetição")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Estruturas de repetição")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

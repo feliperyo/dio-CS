@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estruturas de repetição", "Estruturas de repetição.csproj", "{5DA24B06-56E8-4FE8-9A0E-31C4D39C33F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estruturas de repetição", "Estruturas de repetição.csproj", "{856E25AC-48C9-4566-ADA9-5795EEF9EAED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5DA24B06-56E8-4FE8-9A0E-31C4D39C33F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5DA24B06-56E8-4FE8-9A0E-31C4D39C33F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5DA24B06-56E8-4FE8-9A0E-31C4D39C33F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5DA24B06-56E8-4FE8-9A0E-31C4D39C33F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856E25AC-48C9-4566-ADA9-5795EEF9EAED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856E25AC-48C9-4566-ADA9-5795EEF9EAED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856E25AC-48C9-4566-ADA9-5795EEF9EAED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856E25AC-48C9-4566-ADA9-5795EEF9EAED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
