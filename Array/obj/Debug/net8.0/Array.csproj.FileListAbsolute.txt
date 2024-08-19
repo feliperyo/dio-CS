@@ -1,0 +1,15 @@
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\bin\Debug\net8.0\Array.exe
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\bin\Debug\net8.0\Array.deps.json
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\bin\Debug\net8.0\Array.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\bin\Debug\net8.0\Array.pdb
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\obj\Debug\net8.0\Array.sourcelink.json
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\obj\Debug\net8.0\Array.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\obj\Debug\net8.0\refint\Array.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\obj\Debug\net8.0\Array.pdb
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\ExemploFundamentos\Array\obj\Debug\net8.0\ref\Array.dll
