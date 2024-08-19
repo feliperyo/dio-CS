@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\ExemploFundamentos\\Menu interativo\\Menu interativo.csproj",
+      "projectUniqueName": "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\ExemploFundamentos\\Menu interativo\\Menu interativo\\Menu interativo.csproj",
       "projectName": "Menu interativo",
-      "projectPath": "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\ExemploFundamentos\\Menu interativo\\Menu interativo.csproj",
+      "projectPath": "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\ExemploFundamentos\\Menu interativo\\Menu interativo\\Menu interativo.csproj",
       "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\ExemploFundamentos\\Menu interativo\\obj\\",
+      "outputPath": "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\ExemploFundamentos\\Menu interativo\\Menu interativo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config"
