@@ -7,6 +7,17 @@ namespace Propriedades.Models
 {
     public class Pessoa
     {
+
+        public Pessoa()
+        {
+
+        }
+        public Pessoa(string name, string surname)
+        {
+            Name = name;
+            Surname = surname;
+        }
+
         private string _name;
         private int _age;
         public string Name

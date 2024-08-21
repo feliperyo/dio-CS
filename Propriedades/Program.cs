@@ -1,14 +1,7 @@
 ﻿using Propriedades.Models;
 
-Pessoa p1 = new Pessoa();
-
-p1.Name = "Felipe";
-p1.Surname = "Ryo";
-
-Pessoa p2 = new Pessoa();
-
-p2.Name = "Natasha";
-p2.Surname = "Dialetachi";
+Pessoa p1 = new Pessoa(name: "Felipe", surname: "Ryo");
+Pessoa p2 = new Pessoa(name: "Natasha", surname: "Dialetachi");
 
 Curso englishCourse = new Curso();
 englishCourse.Name = "Inglês";
@@ -22,5 +15,4 @@ englishCourse.ListStudents();
 
 
 // p1.Age = 29;
-
 // p1.Apresentar();
