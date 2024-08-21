@@ -11,7 +11,7 @@ namespace Propriedades.Models
         private int _age;
         public string Name
         {
-            get => _name.ToUpper();
+            get => _name;
 
             set
             {
@@ -23,6 +23,11 @@ namespace Propriedades.Models
                 _name = value;
             }
         }
+
+        public string Surname { get; set; }
+
+        public string FullName => $"{Name} {Surname}".ToUpper();
+
         public int Age
         {
             get => _age;
@@ -39,7 +44,7 @@ namespace Propriedades.Models
 
         public void Apresentar()
         {
-            Console.WriteLine($"Nome: {Name}, Idade: {Age}");
+            Console.WriteLine($"Nome: {FullName}, Idade: {Age}");
         }
     }
 }
