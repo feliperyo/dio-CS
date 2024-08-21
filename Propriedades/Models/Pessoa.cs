@@ -7,10 +7,11 @@ namespace Propriedades.Models
 {
     public class Pessoa
     {
-        private string _nome;
+        private string _name;
+        private int _age;
         public string Name
         {
-            get => _nome.ToUpper();
+            get => _name.ToUpper();
 
             set
             {
@@ -19,10 +20,22 @@ namespace Propriedades.Models
                     throw new ArgumentException("O nome não pode ser vazio!");
                 }
 
-                _nome = value;
+                _name = value;
             }
         }
-        public int Age { get; set; }
+        public int Age
+        {
+            get => _age;
+
+            set
+            {
+                if (value < 0)
+                {
+                    throw new ArgumentException("A idade não pode ser menor que zero");
+                }
+                _age = value;
+            }
+        }
 
         public void Apresentar()
         {
