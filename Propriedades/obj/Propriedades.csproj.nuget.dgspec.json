@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\C#\\Propriedades\\Propriedades.csproj": {}
+    "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\C#\\Aulas\\Propriedades\\Propriedades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\C#\\Propriedades\\Propriedades.csproj": {
+    "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\C#\\Aulas\\Propriedades\\Propriedades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\C#\\Propriedades\\Propriedades.csproj",
+        "projectUniqueName": "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\C#\\Aulas\\Propriedades\\Propriedades.csproj",
         "projectName": "Propriedades",
-        "projectPath": "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\C#\\Propriedades\\Propriedades.csproj",
+        "projectPath": "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\C#\\Aulas\\Propriedades\\Propriedades.csproj",
         "packagesPath": "C:\\Users\\PICHAU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\C#\\Propriedades\\obj\\",
+        "outputPath": "C:\\Users\\PICHAU\\Desktop\\Programação\\DIO Bootcamp\\Full-Stack Developer com a XP Inc\\C#\\Aulas\\Propriedades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PICHAU\\AppData\\Roaming\\NuGet\\NuGet.Config"
