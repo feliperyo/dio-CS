@@ -12,7 +12,5 @@ englishCourse.AddStudent(p2);
 englishCourse.ListStudents();
 
 
-
-
 // p1.Age = 29;
 // p1.Apresentar();
