@@ -18,6 +18,12 @@ namespace Propriedades.Models
             Surname = surname;
         }
 
+        public void Deconstruct(out string name, out string surname)
+        {
+            name = Name;
+            surname = Surname;
+        }
+
         private string _name;
         private int _age;
         public string Name

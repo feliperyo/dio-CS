@@ -1,23 +1,44 @@
 ﻿using Propriedades.Models;
 
+Pessoa p1 = new Pessoa("Felipe", "Ryo");
 
-LeituraArquivo arquivo = new LeituraArquivo();
+(string name, string surname) = p1;
 
-var (sucesso, linhasArquivo, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+Console.WriteLine($"{name} {surname}");
 
-if (sucesso)
-{
-    Console.WriteLine("Quantidade linhas do arquivo:" + quantidadeLinhas);
-    foreach (string linha in linhasArquivo)
-    {
-        Console.WriteLine(linha);
-    }
-}
-else
-{
 
-    Console.WriteLine("Não foi possível ler o arquivo.");
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// LeituraArquivo arquivo = new LeituraArquivo();
+
+// var (sucesso, linhasArquivo, quantidadeLinhas) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+// if (sucesso)
+// {
+//     Console.WriteLine("Quantidade linhas do arquivo:" + quantidadeLinhas);
+//     foreach (string linha in linhasArquivo)
+//     {
+//         Console.WriteLine(linha);
+//     }
+// }
+// else
+// {
+
+//     Console.WriteLine("Não foi possível ler o arquivo.");
+// }
 
 
 
