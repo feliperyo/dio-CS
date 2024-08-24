@@ -1,24 +1,21 @@
 ﻿using Propriedades.Models;
+using Newtonsoft.Json;
 
-Pessoa p1 = new Pessoa("Felipe", "Ryo");
+Venda v1 = new Venda(1, "Material de escritório", 25.00M);
 
-(string name, string surname) = p1;
+string serializado = JsonConvert.SerializeObject(v1, Formatting.Indented);
 
-Console.WriteLine($"{name} {surname}");
-
-
-
+Console.WriteLine(serializado);
 
 
 
 
 
+// Pessoa p1 = new Pessoa("Felipe", "Ryo");
 
+// (string name, string surname) = p1;
 
-
-
-
-
+// Console.WriteLine($"{name} {surname}");
 
 
 

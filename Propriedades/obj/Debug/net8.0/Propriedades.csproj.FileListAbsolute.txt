@@ -27,3 +27,6 @@ C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP
 C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\C#\Aulas\Propriedades\obj\Debug\net8.0\Propriedades.pdb
 C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\C#\Aulas\Propriedades\obj\Debug\net8.0\Propriedades.genruntimeconfig.cache
 C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\C#\Aulas\Propriedades\obj\Debug\net8.0\ref\Propriedades.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\C#\Aulas\Propriedades\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\C#\Aulas\Propriedades\obj\Debug\net8.0\Propriedades.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\Programação\DIO Bootcamp\Full-Stack Developer com a XP Inc\C#\Aulas\Propriedades\obj\Debug\net8.0\Propried.E50D0969.Up2Date
